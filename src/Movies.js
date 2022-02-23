@@ -25,6 +25,7 @@ const Movies = () => {
           <div className='movie-info'>
             <h4 className='title'>{title}</h4>
             <p>{year} </p>
+            <p>{title}</p>
           </div>
         </article>
       </Link>
